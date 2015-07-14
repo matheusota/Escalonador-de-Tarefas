@@ -1,0 +1,2 @@
+- Para compilar deve-se digitar no terminal make number=(numero do teste)
+- Para executar testes em C deve-se comentar a linha 224 do escalonador
